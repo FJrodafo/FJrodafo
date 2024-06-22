@@ -18,10 +18,10 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd ./App
+          cd ./App/website
           npm install
 
       - name: Build
         run: |
-          cd ./App
+          cd ./App/website
           npm run build

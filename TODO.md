@@ -1,1 +1,1 @@
-- [x] [Update CV](https://jsonresume.org/schema/)
+- [x] Tasks
