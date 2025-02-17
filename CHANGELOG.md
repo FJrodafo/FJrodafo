@@ -1,4 +1,7 @@
 ```
+* Commit: 71991dc - Upload .vscode
+| Author: fjrodafo - Mon, 17 Feb 2025 20:45:22 +0000
+| 
 * Commit: 0dbd718 - Update Double Quote Symbol
 | Author: fjrodafo - Sun, 16 Feb 2025 18:50:46 +0000
 | 
