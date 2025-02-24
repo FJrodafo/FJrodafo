@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hello <img src="https://raw.githubusercontent.com/FJrodafo/FJrodafo/main/Assets/Wave.gif" height="24" />, I'm Fran Afonso!</h2>
+  <h2>Hello <img src="https://raw.githubusercontent.com/FJrodafo/FJrodafo/main/Assets/Wave.gif" width="24" height="24" />, I'm Fran Afonso!</h2>
   <h4>Full-Stack web application developer, musician, trumpeter and pianist from the Canary Islands.</h4>
   <samp>
     <a href="https://fjrodafo.vercel.app">website</a> /
