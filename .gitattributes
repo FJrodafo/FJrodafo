@@ -1,4 +1,30 @@
+# ===============================
+# Line ending normalization (EOL)
+# ===============================
+
+# Automatically detects text files and normalizes them to LF (Unix)
+# Git will convert CRLF -> LF on commit
 * text=auto eol=lf
+
+# Force CRLF (Windows) for specific scripts
+# Useful because some Windows environments require this format
 *.bat text eol=crlf
 *.cmd text eol=crlf
 *.ahk text eol=crlf
+
+# ============================================
+# GitHub Linguist configuration
+# (how GitHub calculates repository languages)
+# ============================================
+
+# Ensure Markdown files are included in language detection
+# By default, GitHub may treat them as secondary content
+*.md linguist-detectable=true
+
+# Prevent Markdown files from being classified as "documentation"
+# This makes them count as primary repository content in language stats
+*.md linguist-documentation=false
+
+# NOTE:
+# Markdown files are intentionally treated as main content instead of documentation,
+# so they contribute to the repository's language statistics.
