@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hello <img src="https://raw.githubusercontent.com/FJrodafo/FJrodafo/main/assets/wave.gif" width="24" height="24" />, I'm Fran Afonso!</h2>
-    <h4>Full-Stack web application developer, musician, trumpeter and pianist from the Canary Islands.</h4>
+    <h4>Full-Stack web application developer, musician, trumpeter and professor from the Canary Islands.</h4>
     <samp>
         <a href="https://fjrodafo.vercel.app" target="_blank" rel="noopener noreferrer">website</a> /
         <a href="https://www.linkedin.com/in/fjrodafo" target="_blank" rel="noopener noreferrer">linkedin</a> /
